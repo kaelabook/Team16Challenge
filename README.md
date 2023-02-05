@@ -1,2 +1,9 @@
 # Team16Challenge
-Repo for 2023 Hackathon 
+  Challenge: One (aka Cucumbers)
+  
+## Members
+  Alexander Thomas (ME)
+  Caitlyn Schmitt (EE)
+  Xander Walker (ME)
+  Makaela Sellers (CS)
+
