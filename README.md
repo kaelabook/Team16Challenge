@@ -10,6 +10,9 @@
 ## The Name
   FreshQ: The Future of Barcode
   
+## YOUTUBE VIDEO
+  https://www.youtube.com/watch?v=EZl5XyEnUAo
+  
 ## Our Challenge
 ### Transparency
   ### The producer becomes open to the consumer
