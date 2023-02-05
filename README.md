@@ -10,6 +10,11 @@
 ## Our Ideas
 
 ## What We Accomplished
+  We were able to identify what we needed to do to create a web app. With our low experiance level, we were only able to work on some of the code, print out the barcodes we were given with the challenge, and create an outline for the app we would have loved to make.
+  
+  
+  
+  
 
 ##
                                                                                                     ░░░░░░                                        
